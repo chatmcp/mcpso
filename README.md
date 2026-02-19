@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+| Name | Description | Install |
+|------|-------------|---------|
+| [Taskade MCP Server](https://github.com/taskade/mcp) | Official MCP server for Taskade with 50+ tools for managing workspaces, projects, tasks, custom AI agents, and workflow automations. Includes OpenAPI-to-MCP codegen utility. | `npx @taskade/mcp-server` |
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
