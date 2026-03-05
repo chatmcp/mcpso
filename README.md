@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+| Name | Description | Install |
+|------|-------------|---------|
+| [frostbyte-mcp](https://github.com/OzorOwn/frostbyte-mcp) | Developer API toolkit with 13 MCP tools — IP geolocation, crypto prices, DNS/WHOIS, screenshots, web scraping, code execution, search, URL shortener, PDF generation, and more. One API key, zero dependencies. | `npx -y github:OzorOwn/frostbyte-mcp` |
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
