@@ -50,6 +50,10 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+- [OraClaw](https://github.com/Whatsonyourmind/oraclaw) - Decision intelligence for AI agents — 19 algorithms (bandits, solvers, forecasters, risk models), 12 MCP tools, sub-25ms, zero LLM cost. `npx @oraclaw/mcp-server`
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
