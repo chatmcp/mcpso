@@ -6,6 +6,7 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Multi-agent orchestration system using MCP servers for Claude Code with 49 specialized agent prompts, task registry, and quality gates.
 ## Quick Start
 
 1. clone the repo
