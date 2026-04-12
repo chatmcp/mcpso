@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+| Name | Description | Install |
+|------|-------------|---------|
+| [polymarket-agent-mcp](https://github.com/demwick/polymarket-agent-mcp) | 49-tool MCP server for Polymarket prediction markets. Direct trading, copy trading, smart money flow detection, arbitrage scanning, portfolio optimization, and real-time WebSocket price streaming. | `npx polymarket-agent-mcp` |
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
