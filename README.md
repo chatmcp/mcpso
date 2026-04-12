@@ -54,7 +54,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 | Name | Description | Install |
 |------|-------------|---------|
-| [polymarket-trader-mcp](https://github.com/demwick/polymarket-trader-mcp) | 49-tool MCP server for Polymarket prediction markets. Direct trading, copy trading, smart money flow detection, arbitrage scanning, portfolio optimization, and real-time WebSocket price streaming. | `npx polymarket-trader-mcp` |
+| [polymarket-agent-mcp](https://github.com/demwick/polymarket-agent-mcp) | 49-tool MCP server for Polymarket prediction markets. Direct trading, copy trading, smart money flow detection, arbitrage scanning, portfolio optimization, and real-time WebSocket price streaming. | `npx polymarket-agent-mcp` |
 
 ## Community
 
