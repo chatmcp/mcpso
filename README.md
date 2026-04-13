@@ -52,6 +52,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Community
 
+- [knowledge-graph](https://github.com/hilyfux/knowledge-graph) - Knowledge Graph, built on Anthropic practices & Karpathy AutoResearch, with a zero-dependency bash memory layer for Claude Code.
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
