@@ -54,7 +54,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 | Name | Description | Links |
 |------|-------------|-------|
-| [Helium MCP](https://github.com/connerlambden/helium-mcp) | Real-time news with bias scoring, live market data, AI options pricing, balanced news synthesis. | [GitHub](https://github.com/connerlambden/helium-mcp) • [MCP](https://heliumtrades.com/mcp) |
+| [Helium MCP](https://github.com/connerlambden/helium-mcp) | Remote MCP server for real-time news intelligence with bias scoring (**3.2M+** articles, **5000+** sources, **15+** dimensions), financial market data (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (probability ITM, Greeks, fair value), balanced news synthesis, trending topics, and meme search. | [GitHub](https://github.com/connerlambden/helium-mcp) • [Docs](https://heliumtrades.com/mcp-page/) • [MCP](https://heliumtrades.com/mcp) |
 
 ## Community
 
