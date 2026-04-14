@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+| Name | Description | Links |
+|------|-------------|-------|
+| [Helium MCP](https://github.com/connerlambden/helium-mcp) | Real-time news with bias scoring, live market data, AI options pricing, balanced news synthesis. | [GitHub](https://github.com/connerlambden/helium-mcp) • [MCP](https://heliumtrades.com/mcp) |
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
