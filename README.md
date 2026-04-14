@@ -50,6 +50,8 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+
+- [Carbon & Cashmere](https://github.com/CarbonCashmere) — Crypto Intelligence MCP Server with 58 tools for market analysis, portfolio management, and DeFi operations.
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
