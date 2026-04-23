@@ -61,3 +61,5 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 - [idoubi](https://bento.me/idoubi)
 - [Follow me on Twitter](https://x.com/idoubicv)
 - [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
