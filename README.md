@@ -50,6 +50,9 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+
+- [Voidly Pay](https://github.com/voidly-ai/voidly-pay) — Agent-to-agent payment rail. AI agents charge each other in USDC-backed credits over HTTP 402 (x402). 28 tools — wallet, transfer, escrow, hire, marketplace, x402 quote/verify, and a universal reverse proxy that paywalls any HTTPS URL with one query parameter.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
