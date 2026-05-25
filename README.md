@@ -1,5 +1,6 @@
 ## MCP Directory
 
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 a directory for Awesome MCP Servers.
 
 live preview: [https://mcp.so](https://mcp.so)
