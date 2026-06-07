@@ -6,6 +6,8 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- **[The Stall](https://the-stall.intuitek.ai/mcp)** - 172 pay-per-call financial & market intelligence tools — x402 USDC micropayments, no API key. Covers crypto, equities, DeFi, macro, options, on-chain, and 20+ data verticals. Remote MCP, zero install.
+
 ## Quick Start
 
 1. clone the repo
