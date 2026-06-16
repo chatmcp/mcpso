@@ -5,6 +5,7 @@ a directory for Awesome MCP Servers.
 live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
+- [scala-mcp-server](https://github.com/Alessandro114/scala-mcp-server) — Search and enrich data from 250M+ companies across 50+ countries. Company lookup by name/VAT/ID, sector search, financial data. [npm](https://www.npmjs.com/package/scala-mcp-server)
 
 ## Quick Start
 
