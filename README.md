@@ -5,6 +5,7 @@ a directory for Awesome MCP Servers.
 live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
+- [Notipo](https://github.com/kfuras/notipo-app) — WordPress publishing MCP server. 13 tools cover posts, categories, tags, image hosting, featured images, and SEO metadata (Rank Math, Yoast, SEOPress, AIOSEO). One call runs the full markdown-to-live-URL pipeline. AGPL-3.0. [Hosted at notipo.com](https://notipo.com).
 
 ## Quick Start
 
