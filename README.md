@@ -52,6 +52,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Community
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
