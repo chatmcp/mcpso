@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Health & Biology
+
+- [liveforeverbetter/wellnizz](https://github.com/liveforeverbetter/wellnizz) — Agent-first API for genetics (WGS, ClinVar, CPIC, PRS), biomarkers (168+ markers), and wearables (WHOOP, Oura, Garmin). 21 MCP tools + 48 REST endpoints. Self-hostable (Docker). AGPL-3.0.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
