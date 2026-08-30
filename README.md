@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Knowledge & Memory
+
+- [NoteMCP](https://notemcp.com) — Give Claude and ChatGPT long-term memory. Save a note by text, voice or your phone's share sheet, then find it months later just by asking. Hosted, Streamable HTTP at `https://notemcp.com/mcp`, OAuth 2.1 + PKCE, no API key. Lists never return note bodies and embedded photos are redacted, so a large collection can't flood the agent's context window. Docs: [notemcp-docs](https://github.com/waelmansourx/notemcp-docs).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
