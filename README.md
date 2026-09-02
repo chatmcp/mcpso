@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Marketing & Social Media
+
+- [BulkPublish](https://app.bulkpublish.com/docs) — Create, adapt, schedule, publish, and analyze social media content across connected channels for AI-agent workflows. Hosted Streamable HTTP at `https://mcp.bulkpublish.com/mcp`; requires a BulkPublish API key and connected channel permissions.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
