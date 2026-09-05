@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Knowledge & Memory
+
+- [Ritwik Joshi MCP Server](https://github.com/Ritwikjoshi/ritwikjoshi-mcp) — Official personal Model Context Protocol server for Ritwik Joshi (2x TEDx Speaker, AI entrepreneur). Exposes tools for speaker background, verified TEDx talks, keynote topics, booking info, and media kit dispatch. Remote Streamable HTTP endpoint: `https://api.ritwikjoshi.com/mcp` (public, no authentication required).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
