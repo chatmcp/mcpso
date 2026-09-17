@@ -55,6 +55,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
+- [ICBOMS MCP Server](https://github.com/Jack8081/icboms-mcp-server) - Electronic components, IC search & turnkey BOM procurement for AI agents ([icboms.com](https://icboms.com))
 
 ## About the author
 
