@@ -1,63 +1,49 @@
-## MCP Directory
+# MCP Servers
 
-a directory for Awesome MCP Servers.
+Welcome to the MCP Servers repository! Below is a curated list of MCP Servers that can be used with the [mcp.so](https://mcp.so) platform.
 
-live preview: [https://mcp.so](https://mcp.so)
+If you have an MCP Server you'd like to submit, please open a PR or raise an issue with the details below.
 
-![preview](./preview.png)
+---
 
-## Quick Start
+## How to Submit Your MCP Server
 
-1. clone the repo
+To add your MCP Server to the list, open a PR that adds an entry in the format below:
 
-```bash
-git clone https://github.com/chatmcp/mcp-directory.git
-cd mcp-directory
+```
+- **Name**: [Your Server Name](<repository-url>)
+  - **Description**: Brief description of what your server does.
+  - **Repository**: <github-url>
+  - **Author**: <your-username-or-org>
 ```
 
-2. install dependencies
+---
 
-```bash
-pnpm install
+## Submitted MCP Servers
+
+### ✨ Add Your Server Here!
+
+If you have an MCP Server that you'd like featured on [mcp.so](https://mcp.so), submit it using the format above.
+
+---
+
+## Usage
+
+To use any of these MCP servers, add the server configuration to your `~/.config/mcp/` config file:
+
+```json
+{
+  "mcpServers": {
+    "server-name": {
+      "command": "npx",
+      "args": ["-y", "<package-name>"]
+    }
+  }
+}
 ```
 
-3. prepare database
+---
 
-create a database with [Supabase](https://supabase.com/)
+## About mcp.so
 
-run the sql file in `data/install.sql`
-
-4. set env variables
-
-put a .env file in the root directory
-
-with env variables:
-
-```env
-SUPABASE_URL=""
-SUPABASE_ANON_KEY=""
-
-NEXT_PUBLIC_WEB_URL="http://localhost:3000"
-```
-
-5. run the dev server
-
-```bash
-pnpm dev
-```
-
-6. preview the site
-
-open [http://localhost:3000](http://localhost:3000) in your browser
-
-## Community
-
-- [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
-- [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
-- [ChatMCP Official Twitter](https://x.com/chatmcp)
-
-## About the author
-
-- [idoubi](https://bento.me/idoubi)
-- [Follow me on Twitter](https://x.com/idoubicv)
-- [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
+[mcp.so](https://mcp.so) is a platform for discovering and sharing MCP (Model Context Protocol) Servers. Submit your server to get it listed!
