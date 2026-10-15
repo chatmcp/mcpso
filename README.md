@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Web Scraping & Data Extraction
+
+- [ATS Zero-Browser Gateway](https://github.com/ginugokz/ats-zero-browser-gateway) - Ultra-fast, protocol-level ATS web scraper & MCP gateway for Workday, Greenhouse, Lever, Ashby, and SmartRecruiters. Runs standalone or on [Apify](https://apify.com/ginugokz/ats-zero-browser-gateway) with zero headless browser overhead.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
