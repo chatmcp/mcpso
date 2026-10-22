@@ -61,3 +61,5 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 - [idoubi](https://bento.me/idoubi)
 - [Follow me on Twitter](https://x.com/idoubicv)
 - [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
+
+- **[ProofNexa B2B & Quant Risk Gate (`b2b-lead-quant-mcp`)](https://github.com/rotenkus-dot/b2b-lead-quant-mcp)** - 15-tool B2B email deliverability verification (MX/SPF/DMARC), domain security, OpenAPI breaking-change release gate, LLMO `/llms.txt` AI search readiness auditor, and quantitative trading risk analysis MCP server (`npx -y b2b-lead-quant-mcp` & Streamable HTTP `https://quant-b2b-risk-gate-api.vercel.app/mcp`).
