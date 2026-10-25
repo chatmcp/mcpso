@@ -61,3 +61,6 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 - [idoubi](https://idoubi.ai)
 - [Follow me on Twitter](https://x.com/idoubiai)
 - [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
+
+
+- **[Castov MCP Server](https://github.com/castovdev/castov)** - Zero-telemetry local developer execution layer providing 10 deterministic tools for port inspection, IPv4 CIDR subnet calculation, UUIDv7/ULID/Snowflake timestamp decoding, cron scheduling, IANA timezone conversion, JWT inspection, and secret leak scanning.
