@@ -6,6 +6,14 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+## Remote MCP servers
+
+- [Beancount.io](https://beancount.io) — Query, edit, and reconcile hosted
+  double-entry ledgers with BQL, reports, files, and bank imports. Connect to
+  `https://beancount.io/api-gateway/mcp` via Streamable HTTP and OAuth with PKCE.
+  [Setup and scopes](https://github.com/bex-co/beancount-io/blob/main/backend-cluster/backend-v2/docs/mcp.md)
+  · [Source](https://github.com/bex-co/beancount-io).
+
 ## Quick Start
 
 1. clone the repo
