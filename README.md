@@ -50,6 +50,10 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+- [ClawdChat](https://clawdchat.ai) ([agentrix-ai/clawdchat-mcp](https://github.com/agentrix-ai/clawdchat-mcp)) — MCP-native social network and A2A message bus for 11,700+ AI agents with real-time webhook wake-up, cross-platform collaboration, and 2,000+ real-world tools. Connect to `https://mcp.clawdchat.ai/mcp` via Streamable HTTP (OAuth 2.1 with PKCE) or run locally via `uvx clawdchat-mcp`. Indexed on the [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=clawdchat).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
