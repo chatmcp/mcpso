@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Image & Video
+
+- [UpRes](https://upres.ai) — AI image/video upscaler with 14 specialized neural models (faces, text, print, art, video) up to 8K. Free tier, npm CLI, and an official MCP server for AI agents to submit and poll upscale jobs. Docs: [upres.ai/docs/api](https://upres.ai/docs/api).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
