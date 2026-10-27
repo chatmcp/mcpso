@@ -61,3 +61,28 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 - [idoubi](https://idoubi.ai)
 - [Follow me on Twitter](https://x.com/idoubiai)
 - [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
+
+
+---
+<!-- Fix for #6253 -->
+# mcpso
+
+## Installation
+
+```bash
+npm install
+```
+
+## Usage
+
+```javascript
+const { createClient } = require('./src');
+const client = createClient({ apiKey: process.env.API_KEY });
+const result = await client.process('input');
+console.log(result);
+```
+
+## Contributing
+
+Pull requests are welcome. Ensure tests pass with `npm test` before submitting.
+
