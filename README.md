@@ -50,6 +50,11 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+
+## Featured MCP Servers
+
+- **[Signbee MCP](https://github.com/signbee/mcp)** - Official MCP server for [Signb.ee](https://signb.ee) enabling AI agents to send Markdown or PDF documents for two-party e-signing with SHA-256 certified delivery and OTP verification.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
