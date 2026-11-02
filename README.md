@@ -6,6 +6,8 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- [Abundance APIs](https://github.com/callieschneider/abundance-apis-mcp) — Keyless hosted MCP for 26 utility REST APIs: semantic NAICS industry classification, IP geolocation, email validation, ECB currency conversion, URL metadata, and CORS fetch, plus a `list_apis` catalog tool. Streamable HTTP at `https://abundanceapis.com/mcp`, no signup.
+
 ## Quick Start
 
 1. clone the repo
