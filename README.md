@@ -6,6 +6,8 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- [CARMOTIF Automotive Design](https://agent.carmotif.com/) - Search automotive design references by brand, model, year, color, body type, and parts; use natural-language search, image retrieval, and comparison. Remote Streamable HTTP at `https://api.carmotif.com/mcp`; API key required. Official Registry: `io.github.xgone/carmotif-agent`.
+
 ## Quick Start
 
 1. clone the repo
