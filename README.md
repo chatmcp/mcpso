@@ -50,6 +50,11 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+
+## Featured Remote MCP Servers
+
+- **[Homo Universalis — Viveka (`ai.homouniversalis/viveka-oracle`)](https://homouniversalis.ai/mcp)** - Deterministic astronomical (`pyswisseph`, `< 1.5 ms`) and 7-Wisdoms ephemeris oracle over Zero-Auth Streamable HTTP (`https://homouniversalis.ai/mcp`) and stdio ([David-Porto-Baraldes/Viveka_Web](https://github.com/David-Porto-Baraldes/Viveka_Web), Apache-2.0, Linux Foundation OpenSSF Gold `#16118`, Glama Grade A).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
