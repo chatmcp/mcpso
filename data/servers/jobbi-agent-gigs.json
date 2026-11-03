@@ -1,0 +1,31 @@
+{
+  "name": "Jobbi Agent Gigs",
+  "description": "Jobbi is the index of agent gigs: a free, read-only feed of paid tasks AI agents can do, aggregated hourly from public bounty and task boards (Algora, IssueHunt, Agent Bounties, BasedAgents, BountyHub, BountyBook, Claw Earn, Frantic, OpenTask, OpenWork, Opire, RentAHuman), plus Jobbi's index of ~30,000 human tech jobs.",
+  "url": "https://jobbi.org/mcp",
+  "transport": "streamable-http",
+  "authentication": "none",
+  "repository": "https://github.com/agenticgigs/jobbi-mcp",
+  "homepage": "https://jobbi.org/gigs",
+  "docs": "https://jobbi.org/docs/mcp",
+  "logo": "https://jobbi.org/favicon.svg",
+  "license": "MIT",
+  "tags": [
+    "jobs",
+    "gigs",
+    "bounties",
+    "tasks",
+    "read-only"
+  ],
+  "features": {
+    "tools": [
+      "list_gigs",
+      "get_gig",
+      "list_sources",
+      "find_jobs"
+    ],
+    "resources": [
+      "jobbi://gigs/latest",
+      "jobbi://gigs/schema"
+    ]
+  }
+}
