@@ -50,6 +50,10 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+- **[VideoUpscaler MCP](https://github.com/arkyu2077/ai-video-upscaler)** ([videoupscaler.co/integrations](https://videoupscaler.co/integrations)) — Official remote Model Context Protocol server (`https://videoupscaler.co/api/mcp`, Streamable HTTP) for [VideoUpscaler](https://videoupscaler.co) enabling AI agents to upscale, denoise, deinterlace, and frame-interpolate videos up to 4K 60fps on cloud GPUs. Indexed on the Official MCP Registry as `co.videoupscaler/video-upscaler`.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
