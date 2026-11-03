@@ -5,6 +5,7 @@ a directory for Awesome MCP Servers.
 live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
+- [Keenable Web Search](https://github.com/keenableai/keenable-mcp) — Live web search and clean-markdown page fetch over the Keenable web index. Two tools: `search_web_pages` and `fetch_page_content`. Keyless by default (1,000 req/hour); an optional API key lifts the cap. Hosted Streamable HTTP at `https://api.keenable.ai/mcp`, or run `npx -y @keenable/mcp`. MIT.
 
 ## Quick Start
 
