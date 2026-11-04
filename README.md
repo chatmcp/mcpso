@@ -6,6 +6,8 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- [RidgeHQ](https://www.ridgehq.app/) - Scheduling and operations tools for dive shops, surf schools and other activity businesses: sessions, trips, availability, marine conditions, gear, rooms, waivers, customers, bookings and daily operations briefs. Remote Streamable HTTP at `https://api.ridgehq.app/mcp`; OAuth 2.1 or personal access token; requires a RidgeHQ Grow or Scale plan. Docs: https://www.ridgehq.app/docs.
+
 ## Quick Start
 
 1. clone the repo
