@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Security & Web3
+
+- [Automaton Onchain Tools](https://github.com/povrouyre-wq/automaton-onchain-tools) - Remote MCP server for AI agents providing pay-per-call onchain safety lookups, transaction explainer, contract-risk heuristics (Base/Ethereum/BSC), calldata decoding, and address inspection. Hosted on [Vercel](https://automaton-tx-explainer.vercel.app) and indexed on the [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/app.vercel.automaton-tx-explainer%2Fbase-tools/versions/latest).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
