@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Security & Governance
+
+- [AegisCore](https://github.com/Sandeep-Hipparagi/aegis-core) - Deterministic zero-trust policy enclave, DPDP Act 2023 PII sanitizer, and cryptographic WORM audit ledger for MCP tools. [npm](https://www.npmjs.com/package/@aegiscore-ai/core) · [PyPI](https://pypi.org/project/aegiscore-ai/)
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
