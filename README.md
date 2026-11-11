@@ -50,6 +50,12 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Featured MCP Servers
+
+### Developer Tools & Automation
+
+- [BountyRadar MCP](https://github.com/PanStories/bountyradar-mcp) - Remote MCP server that aggregates AI-agent-solvable bounties across Opire, BountyHub, ClawHunt, Algora, GitHub, and validated security programs, scored for agent-solvability, freshness, and competition. Runs standalone, on [Apify](https://apify.com/neeenja/bountyradar-mcp), and indexed on the [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.PanStories%2Fbountyradar-mcp/versions/latest).
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
