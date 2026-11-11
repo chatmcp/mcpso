@@ -54,6 +54,8 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted MCP server: free token-safety scans (A+–F grades) across Solana and 7 EVM chains, plus x402-paid analytics endpoints.
+
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
 
 ## About the author
