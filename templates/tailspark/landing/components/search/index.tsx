@@ -2,6 +2,7 @@
 
 import {
   ChangeEvent,
+  KeyboardEvent,
   useEffect,
   useRef,
   useState,
