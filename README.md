@@ -52,6 +52,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Community
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) ([GitHub](https://github.com/ratacat/nostairsplease-mcp)) - Independent live-music venue & small-stage MCP server.
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
