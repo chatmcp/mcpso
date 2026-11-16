@@ -50,6 +50,8 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+- [llm-prices](https://github.com/benbencodes/llm-prices) — MCP server for querying LLM API pricing across 128+ models and 22+ providers. Tools: get_model_pricing, calculate_api_cost, compare_models, find_cheapest_models, list_providers, search_llm_models.
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
