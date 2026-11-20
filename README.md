@@ -6,6 +6,8 @@ live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
 
+- [BDE Score](https://github.com/hbhqq9/bde-score) — Multi-factor quantitative stock analysis MCP server for US, HK, and CN A-share markets. Transparent 0-100 composite scores with EU AI Act Art.50 compliance.
+
 ## Quick Start
 
 1. clone the repo
