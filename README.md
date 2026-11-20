@@ -5,6 +5,7 @@ a directory for Awesome MCP Servers.
 live preview: [https://mcp.so](https://mcp.so)
 
 ![preview](./preview.png)
+- [Grafema](https://github.com/Disentinel/grafema) — Semantic code graph MCP server for AI coding agents. Indexes codebases into a typed graph (functions/types/modules as nodes; CALLS/IMPORTS/DATAFLOW/EFFECTS as edges) and exposes 40+ MCP tools for call-chain tracing, data-flow analysis, semantic search, and invariant checking.
 
 ## Quick Start
 
