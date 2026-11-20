@@ -50,6 +50,13 @@ pnpm dev
 
 open [http://localhost:3000](http://localhost:3000) in your browser
 
+
+## Featured MCP Servers
+
+| Name | Description | Links |
+|------|-------------|-------|
+| [Omni Service Node](https://github.com/Luckkyyy23/omni-service-node) | The petrol station for AI agents. 56 pay-per-call endpoints: trading signals, macro intelligence, geopolitical crisis intel, crypto/DeFi, whale tracking, SEC filings, insider trades, options flow, ArXiv research, sanctions screening. Pay-per-call via USDC on Base Mainnet. | [GitHub](https://github.com/Luckkyyy23/omni-service-node) • [Live](https://omni-service-node-production.up.railway.app) • [Smithery](https://smithery.ai/servers/luckkyyy23/omni-service-node) |
+
 ## Community
 
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
