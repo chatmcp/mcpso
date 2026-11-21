@@ -52,6 +52,7 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Community
 
+- [Mrrlin External Agents](https://mrrlin.com) ([GitHub](https://github.com/mrrlin-dev/external-agents)) - Local stdio MCP server aggregating multiple LLM providers with pooled quota capacity and fallback for Claude Code, Codex, and Cursor.
 - [MCP Server Telegram](https://t.me/+N0gv4O9SXio2YWU1)
 - [MCP Server Discord](https://discord.gg/RsYPRrnyqg)
 - [ChatMCP Official Twitter](https://x.com/chatmcp)
