@@ -1,13 +1,4 @@
-import { parseProject, saveProject } from "@/services/project";
-import { respData, respErr } from "@/utils/resp";
-
-import { Project } from "@/types/project";
-
-export const runtime = "edge";
-
-export async function POST(req: Request) {
-  try {
-    let project: Project = await req.json();
+Project = await req.json();
 
     const parsedProject = parseProject(project);
     if (!parsedProject) {
