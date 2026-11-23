@@ -1,4 +1,5 @@
 ## MCP Directory
+- [Solana Rent & Rug Shield MCP](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) - Production Solana 12-layer token rug audit, Layer 9 Inner CPI drainer simulation, and read-only ATA SOL rent scanner (`npx -y @rentandrugshield/mcp-server` | Remote: `https://rentandrugshield.com/mcp`).
 
 a directory for Awesome MCP Servers.
 
