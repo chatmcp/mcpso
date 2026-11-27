@@ -1,4 +1,5 @@
 ## MCP Directory
+- [VektorScan MCP](https://github.com/macmac08082002/vektorscan-mcp) - Real-time multi-chain token security audits & honeypot detection (Solana, Base, Ethereum) with HTTP 402 (x402) USDC micropayments.
 
 a directory for Awesome MCP Servers.
 
